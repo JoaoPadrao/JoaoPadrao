@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=JoaoPadrao&color=red&style=for-the-badge"></img>
 
 <!--
 **JoaoPadrao/JoaoPadrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
