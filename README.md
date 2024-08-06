@@ -17,8 +17,4 @@
 
 <div align="center">
   
-| Name      | Description                                                                                                                                              |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [InstagramClone](https://github.com/JoaoPadrao/InstagramClone) |   In order to increase my mobile development skills, I am building a clone of the famous "Instagram" app using the Flutter framework and Firebase for the backend, with Dart as the programming language.          
 
-</div>
