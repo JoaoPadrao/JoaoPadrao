@@ -5,8 +5,8 @@
 </div>
 
 ### About me
-- 🖥️ Studying Informatics and Computing Engineering at [FEUP](http://fe.up.pt) | 3rd year
-- 📱I have a strong interest in software development, particularly focused on mobile applications.
+- 🖥️ Studying Informatics and Computing Engineering at [FEUP](http://fe.up.pt) | 4th year
+- 🧩 I have a strong interest in software development, particularly focused on backend systems and APIs.
   
 ### Stats
 <div align="center">
